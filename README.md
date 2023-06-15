@@ -1,5 +1,6 @@
 # Impact-of-car-features-on-Price
 This project aims to analyse a comprehensive dataset of car models, their specifications, and pricing information to provide insights and recommendations for optimizing pricing strategies and product development efforts.
+
 Business Problem:
 The main objective of this project is to assist a car manufacturer in
 optimizing pricing and product development decisions. The manufacturer
@@ -22,7 +23,7 @@ includes handling missing data, removing duplicates, standardizing
 variable formats, and addressing any inconsistencies. The cleaned dataset
 is then used for further analysis.
 
-Conclusion –
+Conclusion:
 The project aims to provide actionable insights to the car manufacturer based on
 the analysis of the dataset. The findings can assist in optimizing pricing
 strategies, identifying key features to focus on in product development, and
